@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TBC_Task_10</string>
+    <string name="category">category</string>
+    <string name="party">Party</string>
+    <string name="all">All</string>
+    <string name="camping">Camping</string>
+    <string name="casual">Casual</string>
+    <string name="sport">Sport</string>
+    <string name="summer">Summer</string>
+    <string name="party_title_1">Party clothes 1</string>
+    <string name="party_title_2">Party clothes 2</string>
+    <string name="party_title_3">Party clothes 3</string>
+    <string name="party_title_4">Party clothes 4</string>
+    <string name="camping_title_1">Camping clothes 1</string>
+    <string name="camping_title_2">Camping clothes 2</string>
+    <string name="camping_title_3">Camping clothes 3</string>
+    <string name="camping_title_4">Camping clothes 4</string>
+    <string name="casual_title_1">Casual clothes 1</string>
+    <string name="casual_title_2">Casual clothes 2</string>
+    <string name="casual_title_3">Casual clothes 3</string>
+    <string name="sport_title_1">Sport clothes 1</string>
+    <string name="sport_title_2">Sport clothes 2</string>
+    <string name="sport_title_3">Sport clothes 3</string>
+    <string name="sport_title_4">Sport clothes 4</string>
+    <string name="summer_title_1">Summer clothes 1</string>
+    <string name="summer_title_2">Summer clothes 2</string>
+    <string name="summer_title_3">Summer clothes 3</string>
+    <string name="price">100 $</string>
+</resources>
